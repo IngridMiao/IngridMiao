@@ -1,5 +1,6 @@
 ## Hi, I'm Ingrid Miao 👋
 
+Currently majored in Information Management for master at NCKU, and was graduated from Business Administration for bechalor at NCCU.
 <!--
 **IngridMiao/IngridMiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
