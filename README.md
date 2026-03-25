@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ingrid Miao</h1>
 <h3 align="center">A passionate developer from Taiwan</h3>
+
 - 🌱 Currently majored in Information Management for master at NCKU, and was graduated from Business Administration for bechalor at NCCU.
+- 
 - 📫 How to reach me **ingrid.miao0617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
